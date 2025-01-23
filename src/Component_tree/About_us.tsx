@@ -11,7 +11,7 @@ const teamMembers = [
   },
   {
     name: "Sabrina",
-    hobbies: "Photography, Painting, Blogging",
+    hobbies: "Languages, Skiing, Travelling, Piano, Cooking",
     linkedIn: "https://www.linkedin.com/in/sabrina-fraschetti-39b254347/",
     gitHub: "https://github.com/Sabrinafraschetti",
     image: "/assets/Sabrina_avatar.png",
@@ -26,15 +26,15 @@ const teamMembers = [
   },
   {
     name: "Lewis",
-    hobbies: "Yoga, Writing, Gardening",
+    hobbies: "Cooking, Collecting vinyl, Being active",
     linkedIn: "https://www.linkedin.com/in/",
     gitHub: "https://github.com/Ltay49",
     image: "/assets/Lewis_avatar.png",
   },
   {
     name: "Burhan",
-    hobbies: "Gaming, Exploring, ",
-    linkedIn: "https://www.linkedin.com/in/",
+    hobbies: "Gaming, Exploring, Languages, Coding ",
+    linkedIn: "https://www.linkedin.com/in/burhan-anjum-24a487282/",
     gitHub: "https://github.com/IIHHII",
     image: "/assets/Burhan_avatar.png",
   },
